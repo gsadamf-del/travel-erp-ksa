@@ -1,0 +1,3 @@
+This file was added to trigger GitHub Actions CI build for creating debug APK and Windows debug build.
+
+DO NOT REMOVE.
