@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "user-1",
+      "name": "Test User",
+      "email": "test@example.com"
+    }
+  ],
+  "trips": [
+    {
+      "id": "trip-1",
+      "title": "Riyadh City Tour",
+      "description": "One-day city tour in Riyadh, visits to major attractions.",
+      "price": 150,
+      "duration_hours": 8
+    },
+    {
+      "id": "trip-2",
+      "title": "Jeddah Beach Getaway",
+      "description": "Relaxing weekend near the Red Sea.",
+      "price": 220,
+      "duration_hours": 48
+    }
+  ]
+}
